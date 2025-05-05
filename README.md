@@ -2,9 +2,16 @@
 
 ## Summary
 
-This repo has all my solutions to LeetCode questions that I have completed with notes on my approach and thoughts of the solution at the time to completion. I break down my thought process of handling the problem and the algorithm used, or algorithms if there are more than one, and how I would improve it. In the future I would like to include HackerRank problems as well. There may be more than one input of the same problem within the table this means the problem was solved with multiple programming languages and each one links to their solution to the same problem but in their respective languages, this may be done as I wanted to practice in another language other than my primary Python.
+This repository contains my solutions to LeetCode problems, along with notes on my approach, thought process, and algorithms used. Each solution includes a breakdown of the problem-solving strategy and potential improvements. Some problems may have multiple solutions in different programming languages as I like to sometimes practice languages beyond my primary one, Python.
 
-As for the `problem_scraper.py` this is a web scraper I made to sorta automate the process of adding the completed problem to the `README.md` table down below in the order that I complete them and creating files for faster pasting of my solutions and notes, more info about it found [here](#web-scraper).
+Additionally, the repository includes a `problem_scraper.py` script that automates the process of:
+- Adding completed problems to the `README.md` table.
+- Creating solution and notes files.
+- Organizing files into appropriate folders based on difficulty.
+
+If you have better solutions to the problems, advice on improving the web scraper, or just want to connect, feel free to reach out! I’m always open to learning and connecting :D.
+
+For more details about the scraper, see the [Web Scraper](#web-scraper) section.
 
 ## List of Problems
 
@@ -56,10 +63,13 @@ pip install -r requirements.txt
 ```
 
 #### Running the Program
-Execute the program with:
+Execute the program with, once done a small window will pop up:
 ```
 python problem_scraper.py
 ```
+
+![Screenshot 2025-05-04 232519](https://github.com/user-attachments/assets/f5362525-4b70-45be-bf2a-5dd0b34ae6a1)
+
 
 #### Using the GUI
 1. Enter the **LeetCode problem link** in the top input box.
