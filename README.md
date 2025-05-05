@@ -1,8 +1,8 @@
-# Leetcode Solutions
+# LeetCode Solutions
 
 ## Summary
 
-This repository contains my solutions to LeetCode problems, along with notes on my approach, thought process, and algorithms used. Each solution includes a breakdown of the problem-solving strategy and potential improvements. Some problems may have multiple solutions in different programming languages as I like to sometimes practice languages beyond my primary one, Python.
+This repository contains my solutions to LeetCode problems, along with notes on my approach, thought process, and algorithms used. Some problems may have multiple solutions in different programming languages as I like to sometimes practice languages beyond my primary one, Python.
 
 Additionally, the repository includes a `problem_scraper.py` script that automates the process of:
 - Adding completed problems to the `README.md` table.
