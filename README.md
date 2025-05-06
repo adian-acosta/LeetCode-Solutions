@@ -25,6 +25,7 @@ For more details about the scraper, see the [Web Scraper](#web-scraper) section.
 | 53 | Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | [Python](https://github.com/adian-acosta/LeetCode-Solutions/tree/main/leetcode/medium/maximum_subarray.py) | [Notes](https://github.com/adian-acosta/LeetCode-Solutions/tree/main/leetcode/medium/maximum_subarray.md) |
 | 11 | Container With Most Water | Array, Two Pointers, Greedy | [C++](https://github.com/adian-acosta/LeetCode-Solutions/tree/main/leetcode/medium/container_with_most_water.cpp) |  |
 | 13 | Roman to Integer | Hash Table, Math, String | [C++](https://github.com/adian-acosta/LeetCode-Solutions/tree/main/leetcode/easy/roman_to_integer.cpp) |  |
+| 167 | Two Sum II - Input Array Is Sorted | Array, Two Pointers, Binary Search | [Python](https://github.com/adian-acosta/LeetCode-Solutions/tree/main/leetcode/medium/two_sum_ii_-_input_array_is_sorted.py) | [Notes](https://github.com/adian-acosta/LeetCode-Solutions/tree/main/leetcode/medium/two_sum_ii_-_input_array_is_sorted.md) |
 
 
 ## Web Scraper
